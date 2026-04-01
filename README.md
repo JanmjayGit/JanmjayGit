@@ -25,27 +25,43 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Janmjay {
-
-    String name        = "Janmjay Prajapati";
-    String university  = "Chandigarh University";
-    String degree      = "B.E. Computer Science Engineering";
-    String role        = "Java Full-Stack Developer";
-
-    String[] currentlyBuilding = { "Smart Tourism Guide App" };
-    String[] learning          = { "Advanced Java", "System Design", "Cloud Deployment" };
-
-    String[] techStack = {
-        "Java", "Spring Boot", "React.js",
-        "REST APIs", "MySQL", "Git", "JavaScript"
-    };
-
-    String motto = "Always curious to learn, build & contribute 🚀";
-}
-```
+<table>
+  <tr>
+    <td>🎓 <strong>University</strong></td>
+    <td>Chandigarh University</td>
+  </tr>
+  <tr>
+    <td>📚 <strong>Degree</strong></td>
+    <td>B.E. Computer Science Engineering</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Role</strong></td>
+    <td>Java Full-Stack Developer</td>
+  </tr>
+  <tr>
+    <td>🔭 <strong>Currently Building</strong></td>
+    <td>Smart Tourism Guide App</td>
+  </tr>
+  <tr>
+    <td>🌱 <strong>Currently Learning</strong></td>
+    <td>Advanced Java &nbsp;•&nbsp; System Design &nbsp;•&nbsp; Cloud Deployment</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Core Stack</strong></td>
+    <td>Java &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; React.js &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; Git</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Ask Me About</strong></td>
+    <td>Backend Architecture, Spring Boot, REST API Design</td>
+  </tr>
+  <tr>
+    <td>✨ <strong>Motto</strong></td>
+    <td><em>Always curious to learn, build & contribute 🚀</em></td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
