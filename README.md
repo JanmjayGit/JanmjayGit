@@ -25,46 +25,42 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-> *Passionate CS engineer focused on building scalable, production-ready systems — not just writing code, but solving real problems.*
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-
-**🎓 Education**
-- **University:** Chandigarh University
-- **Degree:** B.E. Computer Science Engineering
-- **Focus:** Backend Systems · Web Dev · DSA
-
-**💼 Role**
-- Java Full-Stack Developer
-- Spring Boot + React.js
-
-**📍 Location**
-- Punjab, India 🇮🇳
-
-    </td>
-    <td width="50%" valign="top">
-
-**🔭 Currently Building**
-- 🗺️ Smart Tourism Guide App
-
-**🌱 Currently Learning**
-- Spring AI · System Design
-- Cloud Deployment · Microservices
-
-**💬 Ask Me About**
-- Backend Architecture
-- Spring Boot · REST API Design
-- Java Best Practices
-
-    </td>
+    <td>🎓 <strong>University</strong></td>
+    <td>Chandigarh University</td>
+  </tr>
+  <tr>
+    <td>📚 <strong>Degree</strong></td>
+    <td>B.E. Computer Science Engineering</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Role</strong></td>
+    <td>Java Full-Stack Developer</td>
+  </tr>
+  <tr>
+    <td>🔭 <strong>Currently Building</strong></td>
+    <td>Smart Tourism Guide App</td>
+  </tr>
+  <tr>
+    <td>🌱 <strong>Currently Learning</strong></td>
+    <td>Spring AI &nbsp;•&nbsp; System Design &nbsp;•&nbsp; Cloud Deployment &nbsp;•&nbsp; Microservices</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Core Stack</strong></td>
+    <td>Java &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; React.js &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; Git</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Ask Me About</strong></td>
+    <td>Backend Architecture, Spring Boot, REST API Design</td>
+  </tr>
+  <tr>
+    <td>✨ <strong>Motto</strong></td>
+    <td><em>Always curious to learn, build & contribute 🚀</em></td>
   </tr>
 </table>
-
-> ✨ *"Always curious to learn, build, and contribute to innovative projects."*
 
 ---
 
@@ -137,21 +133,18 @@
 
 </div>
 
+
 ---
 
-## 🚀 Featured Project
+## 🚀 Current Project
 
 <div align="center">
-```
-╔══════════════════════════════════════════════════════════════╗
-║              🗺️  SMART TOURISM GUIDE APP                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  Full-stack intelligent tourism platform with location-aware  ║
-║  insights built using Spring Boot microservices + React.js    ║
-╠══════════════════════════════════════════════════════════════╣
-║  Stack → Java  Spring Boot  React.js  MySQL  REST API  Git   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
+| 🗺️ Smart Tourism Guide App |
+|---|
+| A full-stack intelligent tourism platform built with **Spring Boot** microservices and **React.js** |
+| Provides location-aware travel insights and recommendations for modern travellers |
+| `Java` `Spring Boot` `React.js` `MySQL` `REST API` |
 
 </div>
 
