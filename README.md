@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Janmjay%20Prajapati&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React.js%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=16&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Janmjay%20Prajapati&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React.js%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=16&descColor=a0aec0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&height=45&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React.js+%7C+REST+APIs;Scalable+%E2%80%A2+Clean+Code+%E2%80%A2+Real-World+Apps;CS+Engineer+%40+Chandigarh+University+%F0%9F%8E%93" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&height=45&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React.js+%7C+REST+APIs;Scalable+%E2%80%A2+Clean+Code+%E2%80%A2+Real-World+Apps;Software+Engineer+%40+Chandigarh+University+%F0%9F%8E%93" alt="Typing SVG"/>
+
 
 <br/>
 
@@ -38,7 +39,7 @@
   </tr>
   <tr>
     <td>💼 <strong>Role</strong></td>
-    <td>Java Full-Stack Developer</td>
+    <td>Software Engineer</td>
   </tr>
   <tr>
     <td>🔭 <strong>Currently Building</strong></td>
