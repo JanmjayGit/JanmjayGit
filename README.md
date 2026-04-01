@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>🌱 <strong>Currently Learning</strong></td>
-    <td>Advanced Java &nbsp;•&nbsp; System Design &nbsp;•&nbsp; Cloud Deployment</td>
+    <td>Spring AI &nbsp;•&nbsp; System Design &nbsp;•&nbsp; Cloud Deployment &nbsp;•&nbsp; Microservices</td>
   </tr>
   <tr>
     <td>🛠️ <strong>Core Stack</strong></td>
