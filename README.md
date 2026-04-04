@@ -155,17 +155,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="180"/>
+
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed" width="68%"/>
+<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed&cache_seconds=1800" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=JanmjayGit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="68%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=JanmjayGit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&cache_seconds=1800" width="70%"/>
 
 </div>
 
