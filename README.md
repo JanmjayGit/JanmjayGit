@@ -159,7 +159,7 @@
 <tr>
 <td align="center" width="50%">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/JanmjayGit)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400)](https://github.com/JanmjayGit)
 
 </td>
 <td align="center" width="50%">
@@ -176,6 +176,36 @@
 
 </div>
 ---
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Janmjay__Prajapati-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Janmjay_Prajapati/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-janmjay2ahn-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/janmjay2ahn?tab=activity)
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Janmjay_Prajapati?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/Janmjay_Prajapati/)
+
+</td>
+<td align="center">
+
+[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=janmjay2ahn&theme=dark)](https://www.geeksforgeeks.org/profile/janmjay2ahn)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🌱 Learning Roadmap
 
