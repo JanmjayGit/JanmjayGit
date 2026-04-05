@@ -159,7 +159,7 @@
 <tr>
 <td align="center" width="50%">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400)](https://github.com/JanmjayGit)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/JanmjayGit)
 
 </td>
 <td align="center" width="50%">
