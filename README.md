@@ -157,17 +157,19 @@
 
 <table>
 <tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true" height="180"/>
 
 </td>
 
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true" />
-
-</td>
 </tr>
 </table>
 
