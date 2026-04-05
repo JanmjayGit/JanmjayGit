@@ -159,12 +159,12 @@
 <tr>
 <td align="center" width="50%">
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/JanmjayGit)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Janmjay's GitHub Stats"/>
 
 </td>
 <td align="center" width="50%">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y)](https://github.com/JanmjayGit)
+<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak"/>
 
 </td>
 </tr>
@@ -172,10 +172,9 @@
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/JanmjayGit)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
----
 
 ---
 
