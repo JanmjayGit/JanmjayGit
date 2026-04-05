@@ -158,15 +158,15 @@
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=JanmjayGit&theme=tokyonight&hide_border=true" />
 
 </td>
 
@@ -175,11 +175,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=JanmjayGit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 ---
