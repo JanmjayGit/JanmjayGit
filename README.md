@@ -159,7 +159,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-2a804pi6d-janmjay-prajapatis-projects.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Janmjay's GitHub Stats"/>
+<img src="https://github-readme-stats-janmjay.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Janmjay's GitHub Stats"/>
 
 </td>
 <td align="center" width="50%">
@@ -172,7 +172,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats-2a804pi6d-janmjay-prajapatis-projects.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats-janmjay.vercel.app/api/top-langs/?username=JanmjayGit&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
