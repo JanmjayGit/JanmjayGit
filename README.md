@@ -159,7 +159,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-janmjay.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Janmjay's GitHub Stats"/>
+<img src="https://github-readme-stats-janmjay.vercel.app/api?username=JanmjayGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" alt="GitHub Stats"/>
 
 </td>
 <td align="center" width="50%">
@@ -178,6 +178,15 @@
 
 ---
 
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanmjayGit&theme=tokyo-night&hide_border=true&area=true&color=7c3aed&line=7c3aed&point=eb4d7b" alt="Contribution Graph"/>
+
+</div>
+
+---
 ## 🏆 Coding Profiles
 
 <div align="center">
