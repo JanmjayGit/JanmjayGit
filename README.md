@@ -30,36 +30,29 @@
 
 <table>
   <tr>
-    <td>🎓 <strong>University</strong></td>
-    <td>Chandigarh University</td>
-  </tr>
-  <tr>
-    <td>📚 <strong>Degree</strong></td>
-    <td>B.E. Computer Science Engineering</td>
-  </tr>
-  <tr>
-    <td>💼 <strong>Role</strong></td>
-    <td>Software Engineer</td>
-  </tr>
-  <tr>
-    <td>🔭 <strong>Currently Building</strong></td>
-    <td>Smart Tourism Guide App</td>
-  </tr>
-  <tr>
-    <td>🌱 <strong>Currently Learning</strong></td>
-    <td>Spring AI &nbsp;•&nbsp; System Design &nbsp;•&nbsp; Cloud Deployment &nbsp;•&nbsp; Microservices</td>
-  </tr>
-  <tr>
-    <td>🛠️ <strong>Core Stack</strong></td>
-    <td>Java &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; React.js &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; Git</td>
-  </tr>
-  <tr>
-    <td>💬 <strong>Ask Me About</strong></td>
-    <td>Backend Architecture, Spring Boot, REST API Design</td>
-  </tr>
-  <tr>
-    <td>✨ <strong>Motto</strong></td>
-    <td><em>Always curious to learn, build & contribute 🚀</em></td>
+    <td valign="top" width="55%">
+
+| | |
+|---|---|
+| 🎓 **University** | Chandigarh University |
+| 📚 **Degree** | B.E. Computer Science Engineering |
+| 💼 **Role** | Software Engineer |
+| 🔭 **Currently Building** | Smart Tourism Guide App |
+| 🌱 **Currently Learning** | Spring AI • System Design • Cloud Deployment • Microservices |
+| 🛠️ **Core Stack** | Java • Spring Boot • React.js • REST APIs • MySQL • Git |
+| 💬 **Ask Me About** | Backend Architecture, Spring Boot, REST API Design |
+| ✨ **Motto** | *Always curious to learn, build & contribute 🚀* |
+| 📍 **Location** | Chandigarh, Punjab, India |
+| 📧 **Email** | codewithjanmjay@gmail.com |
+| 🟢 **Status** | Open to Opportunities ✅ |
+| 📄 **Resume** | [View Resume](https://drive.google.com/file/d/19YKZWiZSn4MzjXXncMuCjIuHq-9tW4Tq/view?usp=sharing) |
+
+</td>
+    <td valign="top" width="45%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=800&color=7C3AED&center=true&vCenter=true&width=340&height=300&lines=☕+Java+%E2%80%94+90%25;🌱+Spring+Boot+%E2%80%94+85%25;⚛️+React.js+%E2%80%94+80%25;🔌+REST+API+Design+%E2%80%94+90%25;🐬+MySQL+%2F+SQL+%E2%80%94+75%25;🟡+JavaScript+%E2%80%94+70%25;🏗️+System+Design+%E2%80%94+60%25;☁️+Cloud+%2F+DevOps+%E2%80%94+50%25" alt="Skills Animation"/>
+
+</td>
   </tr>
 </table>
 
